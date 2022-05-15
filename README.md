@@ -1,4 +1,4 @@
-# Activity_5-
+# Activity_5
 This programe will open a text file and: 
   Convert all files to lower case,
   Finds the first and last words,
